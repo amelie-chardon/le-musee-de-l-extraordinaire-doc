@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Le musée de l\'extraordinaire',
   tagline: 'Découvrez l\'art au travers d\'anecdotes !',
-  url: 'https://github.com/solenn-massot/',
-  baseUrl: '/test-doc/',
+  url: 'https://github.com/amelie-chardon/',
+  baseUrl: '/le-musee-de-lextraordinaire-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'solenn-massot', // Usually your GitHub org/user name.
-  projectName: 'test-doc', // Usually your repo name.
+  organizationName: 'amelie-chardon', // Usually your GitHub org/user name.
+  projectName: 'le-musee-de-lextraordinaire-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Le musée de l\'extraordinaire',
@@ -37,7 +37,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/solenn-massot/test-doc',
+            'https://github.com/amelie-chardon/le-musee-de-lextraordinaire-doc',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
